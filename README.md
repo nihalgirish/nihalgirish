@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nihal Girish
+- 👀 I’m interested in app development, coding and web development.
+- 🌱 I’m currently pursuing a bachelors of science in computer science at the American University of Sharjah.
+- 💞️ I’m looking to collaborate on python projects, open to working on any projects based on python, CSS, HTML and javascript.
+- 📫 How to reach me: +971547989632
